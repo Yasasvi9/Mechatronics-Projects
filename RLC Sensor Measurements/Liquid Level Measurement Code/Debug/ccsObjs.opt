@@ -1,0 +1,8 @@
+"./clock.obj"
+"./freq_time.obj"
+"./gpio.obj"
+"./tm4c1230gh6pm_startup_ccs.obj"
+"./uart0.obj"
+"./wait.obj"
+"../tm4c1230h6pm.cmd"
+-llibc.a

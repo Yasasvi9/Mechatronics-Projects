@@ -1,0 +1,1 @@
+Back EMF RPM only works from ranges 20-90% PWM
